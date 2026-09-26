@@ -85,4 +85,4 @@ pyttsx3
 
 ## 👨‍💻 GitHub
 
-https://github.com/89295402744/ALISA-agent
+github.com/m1xalis/ALISA-agent
